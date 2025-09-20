@@ -1,0 +1,12 @@
+pydub
+librosa
+soundfile
+scipy
+numpy
+ipywidgets
+gradio
+noisereduce
+pyloudnorm
+demucs
+torch
+torchaudio
